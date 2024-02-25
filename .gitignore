@@ -1,5 +1,5 @@
 # gitignore
-2 change
+2 Изменение
 node_modules
 
 # Only apps should have lockfiles
